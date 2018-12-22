@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"DashDoc",
+		"GitGutter",
+		"Glue",
+		"Material Theme",
+		"Package Control",
+		"RSpec",
+		"RuboCop",
+		"Ruby Completions",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
+	]
+}

@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+m"], "command": "goto_definition" },
+	{ "keys": ["super+shift+,"], "command": "jump_back" },
+    { "keys": ["ctrl+alt+h"], "command": "dash_doc"}
+]
